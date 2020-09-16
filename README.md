@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![GitHub_Profile](https://github.com/styleDevNerd/styleDevNerd/blob/master/github-profile-pic.png)
 <!--
 **styleDevNerd/styleDevNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
